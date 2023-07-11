@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kimaya-19
-- 👀 I’m interested in JAVA
+- 👀 I’m interested in Web Development
+- Skills JS,HTML,CSS,PHP,MYSQL,C,CPP,WORDPRESS
 - 🌱 I’m currently learning Data Analytics,JAVA
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me kimayashimpi777@gmail.com
